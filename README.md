@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Neculai-Anghelina
-- 👀 I’m interested in Software Developer
+- 👀 I’m interested in Java Developer/Software Developer
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Projects which helpme to grow.
 - 📫 How to reach me neculaianghelina@gmail.com
